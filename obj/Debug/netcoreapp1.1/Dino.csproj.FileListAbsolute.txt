@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/dinosaur/Dino/bin/Debug/netcoreapp1.1/Dino.deps.json
+/Users/Guest/Desktop/dinosaur/Dino/bin/Debug/netcoreapp1.1/Dino.runtimeconfig.json
+/Users/Guest/Desktop/dinosaur/Dino/bin/Debug/netcoreapp1.1/Dino.runtimeconfig.dev.json
+/Users/Guest/Desktop/dinosaur/Dino/bin/Debug/netcoreapp1.1/Dino.dll
+/Users/Guest/Desktop/dinosaur/Dino/bin/Debug/netcoreapp1.1/Dino.pdb
+/Users/Guest/Desktop/dinosaur/Dino/obj/Debug/netcoreapp1.1/Dino.AssemblyInfo.cs
+/Users/Guest/Desktop/dinosaur/Dino/obj/Debug/netcoreapp1.1/Dino.dll
+/Users/Guest/Desktop/dinosaur/Dino/obj/Debug/netcoreapp1.1/Dino.pdb
